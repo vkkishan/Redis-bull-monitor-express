@@ -1,0 +1,1 @@
+module.exports.queueValidation = require('./queue.validation');
